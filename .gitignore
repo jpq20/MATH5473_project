@@ -2,4 +2,3 @@ __pycache__/
 emb_/
 plots_/
 data.ipynb
-combine_plots.py
